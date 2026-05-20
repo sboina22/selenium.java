@@ -3,14 +3,14 @@
 <suite name="Suite1">
 	<test name="Test1">
 		<classes>
-			<class name="testNGExcercises.TestNG_03"/>
+			<class name="testNGExcercises.TestNG_03" />
 		</classes>
 	</test>
-	
-		<test name="Test2">
+
+	<test name="Test2">
 		<classes>
-			<class name="testNGExcercises.TestNG_02"/>
-			<class name="testNGExcercises.TestNG_03"/>
+			<class name="testNGExcercises.TestNG_02" />
+			<class name="testNGExcercises.TestNG_03" />
 		</classes>
 	</test>
 </suite>
