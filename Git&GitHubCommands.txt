@@ -11,7 +11,9 @@
  git branch
  git branch branch name
  git checkout branch name
- git merge branch name
+ git merge branch name /Checkout main branch and perform the branch merge 
+ git branch -d branch Name
  git pull origin "Remote repository url copied from Github"
  git clone "Remote repository url copied from Github"
+ 
  
