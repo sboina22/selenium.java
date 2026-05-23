@@ -1,0 +1,17 @@
+ git --version
+ git status
+ Go to the folder cd
+ git init
+ git config --global user.name "UserName"
+ git config --global user.email "User Email" 
+ git remote add origin "Remote repository url copied from Github"
+ git add -A
+ git commit -m "Commit message"
+ git push -u origin main
+ git branch
+ git branch branch name
+ git checkout branch name
+ git merge branch name
+ git pull origin "Remote repository url copied from Github"
+ git clone "Remote repository url copied from Github"
+ 
