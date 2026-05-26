@@ -3,11 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testNGExcercises.TestNG_02">
+      <class name="testNGExcercises.TestNG_06">
         <methods>
-          <include name="softAsssertion"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="actionMethod"/>
+          <include name="assertionsCheck"/>
         </methods>
-      </class> <!-- testNGExcercises.TestNG_02 -->
+      </class> <!-- testNGExcercises.TestNG_06 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -16,3 +16,5 @@
  git pull origin "Remote repository url copied from Github"
  git clone "Remote repository url copied from Github"
  
+ git restore //to restore the files from Staging Area to Working Space
+ git touch .gitignore //Creates a file to update the ignorable files(Say, *.log, ) add to Staging, commit to local and push to  remote repos
